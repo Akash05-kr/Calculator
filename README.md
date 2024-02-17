@@ -1,4 +1,4 @@
-Simple calculator App that performs basic operations such as add, subtract, multiply and divide. Developed in Jetpack Compose
+<h2>Simple calculator App that performs basic operations such as add, subtract, multiply and divide. Developed in Jetpack Compose.</h2>
 
 <h3>Overview:</h3>
 This is a simple calculator application developed using Jetpack Compose, the modern toolkit for building native Android UI. The app allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division.
