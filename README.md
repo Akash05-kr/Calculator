@@ -45,3 +45,4 @@ For any feedback, suggestions, or issues encountered while using the Calculator 
 <h3>Acknowledgments:</h3>
 Special thanks to the Jetpack Compose development team and the Android developer community for their contributions and support in building modern Android applications.
 <img align="left" alt="Coding" width="400" src="https://github.com/Akash05-kr/Calculator/blob/master/1.png">
+<img align="left" alt="Coding" width="400" src="https://github.com/Akash05-kr/Calculator/blob/master/2.png">
